@@ -1,0 +1,1 @@
+<h2> Hemos enviado una nueva contraseña temporal a su correo electrónico </h2>

@@ -1,0 +1,1 @@
+<h2> Este es el token: <?php echo $this->Session->read('token'); ?> </h2>

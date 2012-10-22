@@ -1,0 +1,1 @@
+<h2>CLIENT_ID: <?php echo $this->Session->read('client_id')?></h2>
